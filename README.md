@@ -89,7 +89,7 @@ cd todo-app-task-2
 ## 📝 License
 
 MIT License.  
-Use, modify, and distribute for personal or educational purposes.
+Use, modify, and distribute for educational purposes.
 
 ---
 
