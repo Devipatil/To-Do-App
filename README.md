@@ -8,21 +8,30 @@ Designed for responsiveness and clarity, it’s perfect for both beginners and a
 
 ## 📸 Screenshots
 
-| Desktop (Dark Mode)                        | Mobile (Light Mode)                         |
+| Desktop (Light Mode)                        | Mobile (Light Mode)                         |
 |--------------------------------------------|---------------------------------------------|
-| ![Desktop Screenshot](assets/screenshot-2.png) | ![Mobile Screenshot](assets/screenshot-3.png) |
+| ![Desktop Screenshot](assets/screenshot-1.png) | ![Mobile Screenshot](assets/screenshot-3.png) |
+
+| Desktop (Dark Mode)                        | Mobile (Dark Mode)                         |
+|--------------------------------------------|---------------------------------------------|
+| ![Desktop Screenshot](assets/screenshot-2.png) | ![Mobile Screenshot](assets/screenshot-4.png) |
 
 ---
 
 ## 📂 Project Structure
-
-ElevateLabs todo-app-task/
+```
+todo-app-task-2/
 │
+├── assets/ # screenshots
+|   ├── screenshot-1.png
+|   ├── screenshot-2.png
+|   ├── screenshot-3.png
+|   └── screenshot-4.png
 ├── index.html # Main HTML file
-├── style.css # Stylesheet (dark mode, animations)
 ├── script.js # Task management logic
-└── assets/ # Icons, sounds, screenshots
+└── style.css # Stylesheet (dark mode, animations)
 
+```
 ---
 
 ## 💡 Features
